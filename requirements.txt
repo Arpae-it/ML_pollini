@@ -89,7 +89,7 @@ nbclient==0.7.2
 nbdime==3.1.1
 networkx==2.6.3
 numba==0.56.4
-numpy==1.21.6
+numpy==1.22.0
 nvidia-ml-py==11.495.46
 oauth2client==4.1.3
 oauthlib==3.2.2
