@@ -1,0 +1,11 @@
+cluster_id,model_name,exp_id,attention_key_dim,batch_size,dropout,layer_dense_1_units,layer_dense_2_units,layer_dense_3_units,learning_rate,test_error
+0,Attention_base,8,64,256,0.3,256,64,128,0.048,0.0046
+1,Attention_base,5,128,256,0.1,256,256,256,0.0629,0.016
+2,Attention_base,8,128,512,0.1,512,256,256,0.0295,0.0068
+3,Attention_base,8,64,256,0.3,64,512,128,0.0603,0.0
+4,Attention_base,2,128,256,0.8,512,64,128,0.0636,0.0177
+5,Attention_base,8,64,512,0.1,512,512,512,0.0194,0.0062
+6,Attention_base,8,64,256,0.4,128,256,256,0.0777,0.015
+7,Attention_base,5,64,512,0.7,128,256,512,0.0097,0.016
+8,Attention_base,7,128,256,0.6,64,128,64,0.0143,0.0078
+9,Attention_base,10,128,1024,0.2,64,128,512,0.0564,0.0
